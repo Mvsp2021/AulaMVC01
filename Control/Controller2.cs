@@ -9,6 +9,11 @@ namespace AulaMVC01.Control
 {
     public static class Controller2
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <param name="table"></param>
+        /// <returns></returns>
         public static List<string[]> SelectAll(string table)
         {
             if (!string.IsNullOrEmpty(table))
