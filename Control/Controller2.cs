@@ -65,6 +65,7 @@ namespace AulaMVC01.Control
                 }
                 else
                 {
+                    //aesdfwetgwe4rtg
                     // Calcula o valor
                     double valorFinal = (Convert.ToDouble(horaSaida) - horaEntrada) * 3.5;
 
